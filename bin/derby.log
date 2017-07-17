@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Jul 17 01:02:49 PDT 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-015d-4f92-3a45-00001b698670 
+on database directory memory:C:\workspace\jersey_restful_webservice-master\exampleDB with class loader WebAppClassLoader=271514713@102efc59 
+Loaded from file:/C:/workspace/jersey_restful_webservice-master/target/reminderRest/WEB-INF/lib/derby-10.10.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_131-b11
+user.dir=C:\workspace\jersey_restful_webservice-master
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

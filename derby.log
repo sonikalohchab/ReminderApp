@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Jul 17 15:00:59 PDT 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-015d-5291-9788-000011b97f48 
+on database directory memory:C:\testWorkspace\reminder_restful_app\exampleDB with class loader WebAppClassLoader=2025928493@78c1372d 
+Loaded from file:/C:/testWorkspace/reminder_restful_app/target/reminderRest/WEB-INF/lib/derby-10.10.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_131-b11
+user.dir=C:\testWorkspace\reminder_restful_app
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
